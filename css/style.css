@@ -229,7 +229,7 @@
   }
   
   #mini-banners #mini-banner-1 a:hover {
-    color: #C09578;
+    color: #ffc600;
   }
   
   #mini-banners #mini-banner-3 a {
@@ -237,7 +237,7 @@
   }
   
   #mini-banners #mini-banner-3 a:hover {
-    color: #C09578;
+    color: #ffc600;
   }
   
   /* BEST SELLERS */
@@ -294,12 +294,12 @@
   
   .btn {
     background-color: transparent;
-    border-color: #C09578;
+    border-color: #ffc600;
   }
   
   .btn:hover {
-    background-color: #C09578;
-    border-color: #C09578;
+    background-color: #ffc600;
+    border-color: #ffc600;
   }
   
   /* BOTTOM BANNER */
@@ -374,7 +374,7 @@
   }
   
   #gallery .image-container:hover {
-    border-color: #C09578;
+    border-color: #ffc600;
   }
   
   #insta1 {
@@ -441,7 +441,7 @@
   }
   
   #footer-links-container li a:hover {
-    color: #C09578;
+    color: #ffc600;
   }
   
   #footer-center {
@@ -454,7 +454,7 @@
   }
   
   #footer-center .store-phone {
-    color: #C09578;
+    color: #ffc600;
     font-weight: bold;
     font-size: 2rem;
     margin-top: -15px;
@@ -494,7 +494,7 @@
   }
   
   #social-container i:hover {
-    color: #C09578;
+    color: #ffc600;
   }
   
   /* COPY */
