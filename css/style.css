@@ -510,7 +510,7 @@
     padding: 30px;
   }
 
-  button {
+  .botao1 {
     padding: 15px 25px;
     border: unset;
     border-radius: 17px;
@@ -526,7 +526,7 @@
     overflow: hidden;
    }
    
-   button::before {
+   .botao1::before {
     content: "";
     position: absolute;
     top: 0;
@@ -541,10 +541,10 @@
     transition: all 250ms
    }
    
-   button:hover {
+   .botao1:hover {
     color: #ffc600;
    }
    
-   button:hover::before {
+   .botao1:hover::before {
     width: 100%;
    }
